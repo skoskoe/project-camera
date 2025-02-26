@@ -1,3 +1,10 @@
+yolo_face_detection.py is the main with the graphic interface (GUI) with PyQt, the trained AI is from yolov8n-face.pt
+
+
+
+
+
+
 ---
 license: agpl-3.0
 library: ultralytics
